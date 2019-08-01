@@ -1,5 +1,5 @@
 body {
-  background: #7B9EA8;
+  background: #7b9ea8;
 }
 
 .card {
@@ -14,7 +14,7 @@ body {
 button {
   padding: 10px;
   font-size: 3em;
-  background: #6FD08C;
+  background: #6fd08c;
   border: none;
   margin: 20px auto;
   display: block;
@@ -23,7 +23,5 @@ button {
 }
 
 button:hover {
-  padding: 15px;
-  border: 2px black solid
+  border: 1px solid black;
 }
-
